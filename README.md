@@ -20,7 +20,7 @@ getting on base matters more than hitting for power when it comes to
 overall team offensive value.
 
 ## Tools & Data
-- **Python** — pandas, matplotlib, numpy
+- **Python** — matplotlib, numpy
 - **pybaseball** — data pulled from FanGraphs via the pybaseball library
 - **Data:** 330 team-seasons across 30 MLB teams (2015–2025)
 
